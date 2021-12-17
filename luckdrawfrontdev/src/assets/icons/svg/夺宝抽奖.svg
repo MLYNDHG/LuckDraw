@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>夺宝抽奖</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="39"></rect>
+        <linearGradient x1="57.2130072%" y1="0%" x2="57.2130072%" y2="47.0630911%" id="linearGradient-3">
+            <stop stop-color="#FFDA3B" offset="0%"></stop>
+            <stop stop-color="#FFA100" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.49402464%" y1="34.134293%" x2="84.533222%" y2="60.7613019%" id="linearGradient-4">
+            <stop stop-color="#FFCF02" offset="0%"></stop>
+            <stop stop-color="#FFA100" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="移动端_ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-104.000000, -190.000000)">
+            <g id="icon_夺宝" transform="translate(104.000000, 190.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFECBF" opacity="0.5" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+                <circle id="椭圆形" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="40" cy="38" r="21"></circle>
+                <path d="M76.2406597,42.8595426 L62.8395611,66.6494072 C60.5557726,70.2209135 57.2378157,72.2790698 53.7905878,72.2790698 L25.6956801,72.2790698 C21.9468197,72.2790698 18.3703207,69.7971755 16.0865322,65.6203291 L3.33178883,42.3147366 C1.34963277,38.6826962 1.86671696,34.6874518 3.03015639,32.2055575 C3.97814407,30.0868673 5.78793874,28.0892451 8.20099829,28.0892451 C8.67499213,28.0892451 9.14898598,28.1497791 9.70916052,28.3313811 L27.6778361,34.1426457 C35.4771893,36.62454 43.7936267,36.685074 51.6791606,34.2637137 C54.1353105,33.5373056 56.5483701,32.6898295 59.0907007,31.8423535 C62.6241093,30.6316733 66.286789,29.4209932 70.4665529,28.2103131 C73.7414194,27.241769 76.0682983,29.7841972 77.1886474,32.4476935 C78.2228158,35.1111898 78.6106289,39.2275022 76.2406597,42.8595426 L76.2406597,42.8595426 Z" id="路径" fill="url(#linearGradient-4)" mask="url(#mask-2)"></path>
+                <path d="M31,56.2093023 C33.3774242,52.7364341 36.4107575,51 40.1,51 C43.7892425,51 46.8225758,52.7364341 49.2,56.2093023" id="路径-7备份" stroke="#FFFFFF" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" transform="translate(40.100000, 53.604651) scale(-1, -1) translate(-40.100000, -53.604651) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
